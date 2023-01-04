@@ -1,1 +1,2 @@
-console.log("This is a file in a new branch"); 
+
+console.log("deleted the previous garbahe"); 
